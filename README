@@ -1,0 +1,2 @@
+create new environment "python -m venv "name_of_environment" Or "path""
+install packages in specific environment "pip install "package_name" -t "target_name""
